@@ -1,0 +1,12 @@
+{
+  "PLATFORMS": {
+    "1": {
+      "API_ENDPOINT": "http://qa.thinksys.com/",
+      "THINKSYS_ENV" : "QA"
+    },
+    "2": {
+      "API_ENDPOINT": "http://qa.thinksys.com/",
+      "THINKSYS_ENV" : "QA"
+    }
+  }
+}

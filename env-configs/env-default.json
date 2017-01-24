@@ -1,0 +1,24 @@
+{
+  "PLATFORMS": {
+    "1": {
+      "APP_NAME": "desktop",
+      "APP_FOLDER": "app-desktop",
+      "API_ENDPOINT": "http://demo.thinksys.com:4001/api/",
+      "API_PLATFORM_ID": "1",
+      "API_VERSION": "1",
+      "PORT": 3000,
+      "WWW_ROOT_URL": "http://www.thinksys.com",
+      "THINKSYS_ENV" : "DEVELOPMENT"
+    },
+    "2": {
+      "APP_NAME": "mobileweb",
+      "APP_FOLDER": "app-mobileweb",
+      "API_ENDPOINT": "http://api.dev.thinksys.com/",
+      "API_PLATFORM_ID": "2",
+      "API_VERSION": "1",
+      "PORT": 4000,
+      "WWW_ROOT_URL": "http://mobi.thinksys.com",
+      "THINKSYS_ENV" : "DEVELOPMENT"
+    }
+  }
+}

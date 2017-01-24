@@ -1,0 +1,12 @@
+{
+  "PLATFORMS": {
+    "1": {
+      "API_ENDPOINT": "http://prod.thinksys.com/",
+      "THINKSYS_ENV" : "PRODUCTION"
+    },
+    "2": {
+      "API_ENDPOINT": "http://prod.thinksys.com/",
+      "THINKSYS_ENV" : "PRODUCTION"
+    }
+  }
+}
